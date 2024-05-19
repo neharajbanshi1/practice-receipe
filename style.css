@@ -1,0 +1,71 @@
+body{
+    background-color:  hsl(30, 54%, 90%);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+   padding:5rem 5rem 5rem 5rem;
+}
+.content{
+    border-radius: 1.5rem;
+    background-color: hsl(0, 0%, 100%);
+    padding:3rem;
+    width:100vh;
+}
+.omellete{
+    border-radius: 1.5rem;
+    width:100vh;
+}
+h1{
+    font-family: Outfit;
+    font-weight:bold;
+}
+.descricption{
+    font-family: Outfit;
+    font-size:16px;
+   
+}
+.preparation{
+    background-color: hsl(330, 100%, 98%);
+    padding: 2px 2px 2px 2px;
+    border-radius: 0.5rem;
+    font-family: Young Serif;
+    font-weight: 400;
+
+}
+h2{
+    color:hsl(332, 51%, 32%);
+   font-family: Young Serif;
+}
+li{
+    padding:4px;
+}
+h3{
+    color:hsl(14, 45%, 36%);
+    border-bottom: 1px;
+    
+}
+.boxes{
+    border-bottom: 0.1rem;
+    border-bottom-color: hsl(30, 18%, 87%);
+    border-bottom-style: solid;
+}
+span{
+    font-weight: bold;
+}
+.border{
+    border-bottom: 0.1rem;
+    border-bottom-color: hsl(30, 18%, 87%);
+    border-bottom-style: solid;
+    display: flex;
+    justify-content: space-between;
+}
+.quantity{
+    color:hsl(14, 45%, 36%);
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-weight: bold;
+}
+.attribution{
+    padding-top:4rem;
+}
